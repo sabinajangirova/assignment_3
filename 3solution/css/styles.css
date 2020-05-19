@@ -1,0 +1,77 @@
+
+h1{
+  color: white;
+}
+
+button{
+  float:right;
+  clear:
+  background-color: transparent;
+  box-shadow: 2px 2px 2px #404040;
+}
+
+.navbar-header{
+  width:100%;
+}
+
+.fas{
+  color: white;
+  font-size: 5vw;
+}
+header{
+  background-color: #336699;
+  width: 100%;
+  font-family: 'Jost', sans-serif;
+}
+
+#collapsable-nav{
+  background-color: white;
+  margin-left: -40px;
+  margin-right: -40px;
+  color: #336699;
+  line-height: 30px;
+  font-weight: bold;
+}
+
+h2{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: 'Playfair Display', serif;
+}
+
+#main-content{
+  background-color: white;
+  font-family: 'Playfair Display', serif;
+}
+
+.information{
+  background-color: #8cb3d9;
+  height: 700px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.something{
+  padding: 10px;
+}
+.inner-link{
+  position: absolute;
+  bottom: 0;
+}
+
+h3{
+  padding-top:20px;
+}
+@media (max-width: 767px) {
+  h1{
+    font-size: 7vw;
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+
+}
+
+@media (min-width: @screen-md-min) {
+
+}
